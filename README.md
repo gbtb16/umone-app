@@ -1,2 +1,4 @@
-# umone-app
-Umone app - monetize app
+# Umone
+Umone App
++ knowledge
+- mistakes
