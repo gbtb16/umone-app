@@ -5,4 +5,4 @@
 
 <p> Splash Screen: </p> 
 
-<img src="/src/assets/image/splash-screen.PNG">
+<img src="/src/assets/images/splash-screen.PNG" align="center">
