@@ -1,4 +1,3 @@
-# Umone
-Umone App
-+ knowledge
-- mistakes
+# Umone App
+* + knowledge
+* - mistakes
