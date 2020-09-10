@@ -1,0 +1,10 @@
+server/
+server/*
+src/
+src/*
+colors.txt
+realeses for atualization.txt
+realeses-for-atualization.txt
+
+# macOS
+.DS_Store
