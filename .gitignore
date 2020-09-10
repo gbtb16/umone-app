@@ -8,6 +8,7 @@ realeses for atualization.txt
 realeses-for-atualization.txt
 =======
 umone-app/node_modules/**/*
+umone-app/node_modules/.bin/
 umone-app/.expo/*
 umone-app/npm-debug.*
 umone-app/*.jks
