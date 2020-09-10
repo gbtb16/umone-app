@@ -1,0 +1,17 @@
+Alterações recentes:
+[FEITO]
+Diminuição do paddingTop do PageHeader de 30px para 20px e aumento no padding do texto: 20 - 30px;
+
+[FEITO]
+Escolher a cor da StatusBar: #1BEEA3 (cor mais clara do que o bgc) ou #1AD391 (cor do background do app) ;
+
+Escolher como ficará a StatusBar na SplashScreen:
+
+[FEITO]
+background: preto - color: white;
+background: cor verde do app - color: black;
+background: cor verde do app - color: white; (essa está selecionada por enquanto)
+background: branco - color: black;
+
+labelStyle do MenuFooter:
+fontSize de 10px para 13px (escolher entre).
