@@ -1,0 +1,13 @@
+umone-app/node_modules/**/*
+umone-app/.expo/*
+umone-app/npm-debug.*
+umone-app/*.jks
+umone-app/*.p8
+umone-app/*.p12
+umone-app/*.key
+umone-app/*.mobileprovision
+umone-app/*.orig.*
+umone-app/web-build/
+
+# macOS
+.DS_Store
